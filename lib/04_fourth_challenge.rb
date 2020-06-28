@@ -10,7 +10,7 @@ def fourth_challenge
          :attitude =>"worried"},
         {:name =>"Mercutio"
          :age =>"18"
-         :attitude}
+         :attitude =>"hot-headed"}
       ]
    }, 
    :capulet => {
@@ -18,8 +18,9 @@ def fourth_challenge
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
-        #your hashes here!
-      ]
+        {},
+        {}
+        ]
    }
 }
 
